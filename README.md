@@ -2,6 +2,8 @@
 
 * Vanila JS로 만든 테트리스 게임
 
+![tetris](image/tetris.png)
+
 ## 배운 것
 * canvas 2d를 활용한 게임 만들기
 * 2중 배열을 통한 테트리스 아이템 구현
